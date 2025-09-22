@@ -1,0 +1,3 @@
+%%
+[aeiou]+ {printf("a vowel");}
+%%
